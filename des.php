@@ -19,7 +19,7 @@
 	<!--Second Layer | Pager-->
 	<div class="headerDiv">
 		<table>
-		      <img class="desc" id = "img" src="img/wr.gif" width="20%" height="90%"></label>
+		      <img class="desc" id = "img" src="wr.gif" width="20%" height="90%"></label>
 				<label class="titlePage"> Networking </label>
 				
 			</tr>
