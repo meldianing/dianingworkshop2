@@ -2,16 +2,16 @@
 <html>
 <head>
 	<title></title>
-	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="style.css">
 	<script type="text/javascript" scr="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-   <link rel="stylesheet" type="text/css" href="../css/reg.css"/>
-     <link rel="stylesheet" type="text/css" href="../css/3DButton.css"/>
-     <link rel="stylesheet" type="text/css" href="../css/NavMenu.css"/>
-     <link rel="stylesheet" type="text/css" href="../css/popupMenu.css">
-     <link rel="stylesheet" type="text/css" href="../css/inlineSiteStyle.css">
-     <link rel="stylesheet" type="text/css" href="../   css/navMaker.css"/>   
-     <script type="text/javascript" src="../js/inlineSiteScript.js"></script>     
-     <script type="text/javascript" src="../js/jssor.slider.min.js"></script>
+   <link rel="stylesheet" type="text/css" href="reg.css"/>
+     <link rel="stylesheet" type="text/css" href="3DButton.css"/>
+     <link rel="stylesheet" type="text/css" href="NavMenu.css"/>
+     <link rel="stylesheet" type="text/css" href="popupMenu.css">
+     <link rel="stylesheet" type="text/css" href="inlineSiteStyle.css">
+     <link rel="stylesheet" type="text/css" href="navMaker.css"/>   
+     <script type="text/javascript" src="inlineSiteScript.js"></script>     
+     <script type="text/javascript" src="jssor.slider.min.js"></script>
 </head>
 </head>
 <body>
@@ -19,7 +19,7 @@
 	<!--Second Layer | Pager-->
 	<div class="headerDiv">
 		<table>
-		      <img class="desc" id = "img" src="../img/wr.gif" width="20%" height="90%"></label>
+		      <img class="desc" id = "img" src="img/wr.gif" width="20%" height="90%"></label>
 				<label class="titlePage"> Networking </label>
 				
 			</tr>
@@ -113,7 +113,7 @@
             width: 40px;
             height: 40px;
             cursor: pointer;
-            background: url('../img/Untitled-1.png') no-repeat;
+            background: url('Untitled-1.png') no-repeat;
             overflow: hidden;
         }
         .jssora05l { background-position: -10px -40px; }
@@ -152,7 +152,7 @@
             height: 62px;
             border: #000 2px solid;
             box-sizing: content-box;
-            background: url('../img/target.png') -800px -800px no-repeat;
+            background: url('arget.png') -800px -800px no-repeat;
             _background: none;
         }        
         .jssort01-99-66 .pav .c {
@@ -192,64 +192,64 @@
         <!-- Loading Screen -->
         <div data-u="loading" style="position: absolute; top: 0px; left: 0px;">
             <div style="filter: alpha(opacity=70); opacity: 0.7; position: absolute; display: block; top: 0px; left: 0px; width: 100%; height: 100%;"></div>
-            <div style="position:absolute;display:block;background:url('image/loading.gif') no-repeat center center;top:0px;left:0px;width:100%;height:100%;"></div>
+            <div style="position:absolute;display:block;background:url('loading.gif') no-repeat center center;top:0px;left:0px;width:100%;height:100%;"></div>
         </div>
         <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 240px; width: 720px; height: 480px; overflow: hidden;">
             <div data-p="150.00" style="display: none;">
-                <img data-u="image" src="img/modem.jpg" />
-                <img data-u="thumb" src="img/modem.jpg" />
+                <img data-u="image" src="modem.jpg" />
+                <img data-u="thumb" src="modem.jpg" />
             </div>
             <div data-p="150.00" style="display: none;">
-                <img data-u="image" src="img/router.jpg" />
-                <img data-u="thumb" src="img/router.jpg" />
+                <img data-u="image" src="router.jpg" />
+                <img data-u="thumb" src="router.jpg" />
             </div>
             <div data-p="150.00" style="display: none;">
-                <img data-u="image" src="img/switch.jpg" />
-                <img data-u="thumb" src="img/switch.jpg" />
+                <img data-u="image" src="switch.jpg" />
+                <img data-u="thumb" src="switch.jpg" />
             </div>
             <div data-p="150.00" style="display: none;">
-                <img data-u="image" src="img/sr.jpg" />
-                <img data-u="thumb" src="img/sr.jpg" />
+                <img data-u="image" src="sr.jpg" />
+                <img data-u="thumb" src="sr.jpg" />
             </div>
             <div data-p="150.00" style="display: none;">
-                <img data-u="image" src="img/c.jpg" />
-                <img data-u="thumb" src="img/c.jpg" />
+                <img data-u="image" src="c.jpg" />
+                <img data-u="thumb" src="c.jpg" />
             </div>
             <div data-p="150.00" style="display: none;">
-                <img data-u="image" src="img/fb.jpg" />
-                <img data-u="thumb" src="img/fb.jpg" />
+                <img data-u="image" src="fb.jpg" />
+                <img data-u="thumb" src="fb.jpg" />
             </div>
             <div data-p="150.00" style="display: none;">
-                <img data-u="image" src="img/cs.jpg" />
-                <img data-u="thumb" src="img/cs.jpg" />
+                <img data-u="image" src="cs.jpg" />
+                <img data-u="thumb" src="cs.jpg" />
             </div>
             <div data-p="150.00" style="display: none;">
-                <img data-u="image" src="img/cx.jpg" />
-                <img data-u="thumb" src="img/cx.jpg" />
+                <img data-u="image" src="cx.jpg" />
+                <img data-u="thumb" src="cx.jpg" />
             </div>
             <div data-p="150.00" style="display: none;">
-                <img data-u="image" src="img/45.jpg" />
-                <img data-u="thumb" src="img/45.jpg" />
+                <img data-u="image" src="45.jpg" />
+                <img data-u="thumb" src="45.jpg" />
             </div>
             <div data-p="150.00" style="display: none;">
-                <img data-u="image" src="img/fb.jpg" />
-                <img data-u="thumb" src="img/fb.jpg" />
+                <img data-u="image" src="fb.jpg" />
+                <img data-u="thumb" src="fb.jpg" />
             </div>
             <div data-p="150.00" style="display: none;">
-                <img data-u="image" src="img/mf.jpg" />
-                <img data-u="thumb" src="img/mf.jpg" />
+                <img data-u="image" src="mf.jpg" />
+                <img data-u="thumb" src="mf.jpg" />
             </div>
             <div data-p="150.00" style="display: none;">
-                <img data-u="image" src="img/im.jpg" />
-                <img data-u="thumb" src="img/im.jpg" />
+                <img data-u="image" src="im.jpg" />
+                <img data-u="thumb" src="im.jpg" />
             </div>
             <div data-p="150.00" style="display: none;">
-                <img data-u="image" src="img/st.jpg" />
-                <img data-u="thumb" src="img/st.jpg" />
+                <img data-u="image" src="st.jpg" />
+                <img data-u="thumb" src="st.jpg" />
             </div>
             <div data-p="150.00" style="display: none;">
-                <img data-u="image" src="img/nw.gif" />
-                <img data-u="thumb" src="img/nw.gif" />
+                <img data-u="image" src="nw.gif" />
+                <img data-u="thumb" src="nw.gif" />
             </div>
             <a data-u="add" href="http://www.jssor.com" style="display:none">Jssor Slider</a>
         
@@ -333,7 +333,7 @@
 </html>
 
 </div>
-	<img id = "img" src="../img/1.jpg" width="100%" height="200%">
+	<img id = "img" src="1.jpg" width="100%" height="200%">
 
 	
 </body>
