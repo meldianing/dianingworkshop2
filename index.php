@@ -52,6 +52,6 @@ setTimeout(pageslide,1000);
 </script>
 
 </div>
-<img id = "img" src="img/01.jpg" width="100%" height="40%">
+<img id = "img" src="01.jpg" width="100%" height="40%">
 </body>
 </html>
