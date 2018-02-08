@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title></title>
-	<link rel="stylesheet" type="text/css" href="../css/style.css">
+	<link rel="stylesheet" type="text/css" href="style.css">
 	<script type="text/javascript" scr="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 </head>
 <body>
@@ -43,7 +43,7 @@
 		</table>
 	</div>
 </div>
-	<img id = "img" src="../img/44.gif" width="100%" height="100%">
+	<img id = "img" src="44.gif" width="100%" height="100%">
 	<!--Login Base-->
 
 	
