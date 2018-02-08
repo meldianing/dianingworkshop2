@@ -3,7 +3,7 @@
 <head>
 	<title></title>
 	<link rel="icon" type="image/jpg" href="01.jpg">
-	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="style.css">
 	<script type="text/javascript" scr="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 </head>
 <body>
@@ -19,10 +19,10 @@
 	</div>
 		<!--Menu Item and Search Bar-->
 		<div class = "menuItem">
-			<a class = "linker" href="php/home.php" id = "home">Home</a>
-			<a class = "linker" href="php/AboutUs.php" id = "AboutUs" href="">About Us</a>
-			<a class = "linker" href="php/packet.php" id = "pack" >PACKET TRACER</a>
-			<a class = "linker" href="php/des.php" id = "Destinations">NETWOKING TOOLS</a>
+			<a class = "linker" href="home.php" id = "home">Home</a>
+			<a class = "linker" href="AboutUs.php" id = "AboutUs" href="">About Us</a>
+			<a class = "linker" href="packet.php" id = "pack" >PACKET TRACER</a>
+			<a class = "linker" href="des.php" id = "Destinations">NETWOKING TOOLS</a>
 		
 		</div>	
 </div>
