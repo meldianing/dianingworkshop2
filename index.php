@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title></title>
-	<link rel="icon" type="image/jpg" href="GF/img/01.jpg">
+	<link rel="icon" type="image/jpg" href="01.jpg">
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<script type="text/javascript" scr="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 </head>
@@ -26,9 +26,9 @@
 		
 		</div>	
 </div>
-	<img class = "x" src="img/02.jpg" width="105%" height="100%">
-<img class = "x" src="img/3.jpg" width="105%" height="100%">
-<img class = "x" src="img/4.jpg" width="105%" height="100%">
+	<img class = "x" src="02.jpg" width="105%" height="100%">
+<img class = "x" src="3.jpg" width="105%" height="100%">
+<img class = "x" src="4.jpg" width="105%" height="100%">
 </html>
 <script type="text/javascript">
 var myIndex = 0;
